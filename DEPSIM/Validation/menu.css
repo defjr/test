@@ -1,0 +1,101 @@
+Body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background: #E8E9E6;
+}
+.pageContainer
+{
+	border: 0px solid #000;
+	padding: 0px;
+	margin: 0px;
+	height: auto !important;
+	height: 100%;
+}
+.CourseMenu
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #3E6DA1;
+}
+.LessonMenu
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #3E6DA1;
+}
+A:link, A:hover, A:visited
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: 700;
+	color: #405D9C;
+	text-decoration: underline;
+	margin-left:25px;
+}
+A:hover
+{
+	color: #7F95D1;
+}
+A:visited
+{
+	color: #7F95D1;
+}
+.sco_name
+{
+	padding: 2px, 2px, 2px, 65px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 700;
+	color: #3E6DA1;
+}
+.block_name
+{
+	padding: 2px, 2px, 2px, 35px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	color: #3E6DA1;
+}
+.review_mark
+{
+	padding: 4px, 0px, 4px, 10px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 600;
+	color: #f93939;
+}
+.course_title
+{
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 600;
+	color: #3E6DA1;
+	text-align: left;
+}
+
+H2, H3
+{
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: 700;
+	color: #000;
+}
+
+H3
+{
+	font-size: 18px;
+}
